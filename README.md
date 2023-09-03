@@ -1,0 +1,1 @@
+Виконати запит на https://goweather.herokuapp.com/weather/Kyiv, ендпойнтом може бути ваше місто. Розпарсити в дата класи та відобразити в CardView
